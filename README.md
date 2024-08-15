@@ -1,5 +1,11 @@
 # UFO_sightings_Mexico
 
+Collaborators: 
+- dgname (Daniel García)
+- Daniel Bardán
+- Carlos Valencia
+- Luis Rodriguez
+
 This project visualizes UFO sightings in Mexico using an interactive map, data charts, and animation. It combines a Flask backend with Leaflet.js for map rendering, D3.js and Plotly.js for data visualization, and Jupyter Notebooks for data preprocessing.
 
 ## Features
